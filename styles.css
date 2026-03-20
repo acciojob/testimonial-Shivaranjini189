@@ -4,10 +4,11 @@
 	padding:25px;
 }
 .testimonial{
-	padding:10px;
-	border:1px solid black;
+	padding:20px;
+	border:1px solid #ddd;
 	background-color:white;
 	margin:15px;
+	
 }
 .testimonial-text{
 	font-style:normal;
